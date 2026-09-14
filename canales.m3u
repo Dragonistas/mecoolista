@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS CL" tvg-logo="https://i.postimg.cc/R0spLN0b/IMG-20250817-WA0030.jpg" group-title="⭐ MIS CANALES",001 24 HORAS CL
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVN" tvg-name="CL | TVN OPC 1" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png" group-title="⭐ MIS CANALES",002 TVN OPC 1
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxa3QvenFXUEtiMGo5NFFWcWg4T05GTT0
-#EXTINF:-1 tvg-id="Canal.Mega.(Chile).cl" tvg-name="CL | MEGA OPC 1" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="⭐ MIS CANALES",003 MEGA OPC 1
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcVVsY2JxVTFKYTIxWHZzMStyRGhzOD0
-#EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-name="C.L CHILEVISION OPC 1" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="⭐ MIS CANALES",004 CHILEVISION OPC 1
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcEFDMjZEc2lLalFFUnVBUzFMbkVEcz0
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxbXhBRXhzWHJUZTV1Z3FMbHFrRnVMdz0
+#EXTINF:-1 tvg-id="Canal.Mega.(Chile).cl" tvg-name="CL | MEGA OPC 1" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="⭐ MIS CANALES",003 MEGA OPC 2
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxajJ3bFMzZHNOUTBGSlZVK1oyNHpGbz0
+#EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-name="C.L CHILEVISION OPC 2" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="⭐ MIS CANALES",004 CHILEVISION OPC 1
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxa0NoUHBBR0N1Witha0ovaEc3Q0Nwdz0
 #EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13  OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="⭐ MIS CANALES",005 CANAL 13  OPC 1
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxanJERld2bnBhNEZmOWFLOUIrVTlRVT0
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxdjdJVEs0YTRlNGdCZXVUd1E0UjRMZz0
 #EXTINF:-1 tvg-id="" tvg-name="CL | LA RED TV OPC 1" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF2p195HUky1A/company-logo_200_200/company-logo_200_200/0/1708480272263/la_red_3_logo?e=2147483647&v=beta&t=t8-ap_bczYz_B5Cmsr0_rj95qmyhNIfA1XlYSAKmTpg" group-title="⭐ MIS CANALES",006 LA RED TV OPC 1
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxc2FVK0E1a2FDOWNQWnB6UVlIdzlDMD0
 #EXTINF:-1 tvg-id="Canal.CNN.Chile.cl" tvg-name="CL |  CNN OPC 1" tvg-logo="https://i.ibb.co/gD4z03y/kmc-20241203-004914.png" group-title="⭐ MIS CANALES",007 CNN OPC 1
@@ -18,7 +18,7 @@ http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxbWpWbVBSQzF0RGloaFBLSExBQzA
 #EXTINF:-1 tvg-id="" tvg-name="NOV | TNT NOVELAS ᴴᴰ" tvg-logo="https://i.postimg.cc/T32cTHp4/9ae23627-8347-46d9-9ae8-c0eb6ff41834.jpg" group-title="⭐ MIS CANALES",010 TNT NOVELAS
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxaFIxSDNZMWg5enQ5R2xVbEVPMnB0WT0
 #EXTINF:-1 tvg-id="" tvg-name="01 | RCN NOVELAS | HQ" tvg-logo="https://i.postimg.cc/T32cTHp4/9ae23627-8347-46d9-9ae8-c0eb6ff41834.jpg" group-title="⭐ MIS CANALES",011 RCN NOVELAS | HQ
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxa2FuTzFyQkJsc1FaTkxjOHcvNng5Yz0
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxdWl3ZmttRUVOTlVHSmpQbjA0cUdEdz0
 #EXTINF:-1 tvg-id="" tvg-name="AE Mundo" tvg-logo="https://i.postimg.cc/L8HtfPfZ/file-0000000080bc720eb0eb6cf37f7a4ad3.png" group-title="⭐ MIS CANALES",012 AE Mundo
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcWgwbFFOL2c4aWRjYjRmSkZQMjUvWT0
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/L8HtfPfZ/file-0000000080bc720eb0eb6cf37f7a4ad3.png" group-title="⭐ MIS CANALES",015 Telemundo
@@ -47,10 +47,8 @@ http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxamhOUmpmUTVDMFZ0aVVOcnVqbjA
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxbklKMTZWY0oxVzBJQW9NMHlibkkvbz0
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/1WnRxe1.png" group-title="⭐ MIS CANALES",030 Discovery Home & Health HD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxalhUTGVIWmE1di9uYTJ6RGNpV2pwST0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="https://i.imgur.com/sT49r2R.png" group-title="⭐ MIS CANALES",031 Discovery Investigation HD
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxc2o5RnQxVlo3NmhGL0xjTkw1dCt6ST0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science HD" tvg-logo="https://i.imgur.com/wLGyQju.png" group-title="⭐ MIS CANALES",032 DISCOVERY Science HD
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxaVRJbk9PM1JLdTEvQ2ZXT2dKQXBOdz0
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="https://i.imgur.com/sT49r2R.png" group-title="⭐ MIS CANALES",031 Discovery Investigation SD
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxczJYRk15YVNNVGpScmFrRC9lWTdlND0
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="https://i.imgur.com/2VvNlps.png" group-title="⭐ MIS CANALES",033 DISCOVERY Theater HD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxc2ZnY1YwcVQyRThtenVJcTF6eEVoMD0
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/rH5dQg7.png" group-title="⭐ MIS CANALES",034 Discovery Channel HD
