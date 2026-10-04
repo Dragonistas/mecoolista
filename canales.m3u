@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS CL" tvg-logo="https://i.postimg.cc/R0spLN0b/IMG-20250817-WA0030.jpg" group-title="⭐ MIS CANALES",001 24 HORAS CL
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TVN" tvg-name="CL | TVN OPC 1" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png" group-title="⭐ MIS CANALES",002 TVN OPC 1
-http://zonacero.lat:8088/Luis918/Final230726/1222
+#EXTINF:-1 tvg-id="TVN" tvg-name="CL | TVN OPC 1" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png" group-title="⭐ MIS CANALES",002 TVN OPC 3
+https://velive.lat:443/Luis918/Final230726/1221
 #EXTINF:-1 tvg-id="Canal.Mega.(Chile).cl" tvg-name="CL | MEGA OPC 1" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="⭐ MIS CANALES",003 MEGA OPC 2
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxajJ3bFMzZHNOUTBGSlZVK1oyNHpGbz0
 #EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-name="C.L CHILEVISION OPC 2" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="⭐ MIS CANALES",004 CHILEVISION OPC 1
@@ -10,7 +10,7 @@ http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxa0NoUHBBR0N1Witha0ovaEc3Q0N
 #EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13  OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="⭐ MIS CANALES",005 CANAL 13  OPC 1
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxdjdJVEs0YTRlNGdCZXVUd1E0UjRMZz0
 #EXTINF:-1 tvg-id="" tvg-name="CL | LA RED TV OPC 1" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF2p195HUky1A/company-logo_200_200/company-logo_200_200/0/1708480272263/la_red_3_logo?e=2147483647&v=beta&t=t8-ap_bczYz_B5Cmsr0_rj95qmyhNIfA1XlYSAKmTpg" group-title="⭐ MIS CANALES",006 LA RED TV OPC 1
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxc2FVK0E1a2FDOWNQWnB6UVlIdzlDMD0
+https://velive.lat:443/Luis918/Final230726/277065
 #EXTINF:-1 tvg-id="Canal.CNN.Chile.cl" tvg-name="CL |  CNN OPC 1" tvg-logo="https://i.ibb.co/gD4z03y/kmc-20241203-004914.png" group-title="⭐ MIS CANALES",007 CNN OPC 1
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxaHJvYk1jOFJwRllNVEIxR3k5SlJyWT0
 #EXTINF:-1 tvg-id="" tvg-name="NOV | TNT NOVELAS ᴴᴰ" tvg-logo="https://i.postimg.cc/T32cTHp4/9ae23627-8347-46d9-9ae8-c0eb6ff41834.jpg" group-title="⭐ MIS CANALES",010 TNT NOVELAS
@@ -49,16 +49,16 @@ http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxc2ZnY1YwcVQyRThtenVJcTF6eEV
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcTlhQzdQWEI5QzlLUXltTlJRY2RmWT0
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/rH5dQg7.png" group-title="⭐ MIS CANALES",035 Discovery Channel SD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcEE1SVU2UXl4YUlZVmxnbC9YOVY3RT0
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="⭐ MIS CANALES",036 ANIMAL Planet HD
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcWxtNnVCT3d6VWxjdE1oNTNrWVNvMD0
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="⭐ MIS CANALES",037 ANIMAL PLANET SD
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="⭐ MIS CANALES",036 ANIMAL PLANET SD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxaFB2eWVLTDdnOFVWaWQ4bTdETE0xWT0
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="⭐ MIS CANALES",037 ANIMAL Planet HD
+http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcWxtNnVCT3d6VWxjdE1oNTNrWVNvMD0
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="https://i.imgur.com/APItKTW.png" group-title="⭐ MIS CANALES",038 NATGEO HD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxZ0hPbWllVjR5b2VvOTA5azBlTXhrRT0
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO SD" tvg-logo="https://i.imgur.com/APItKTW.png" group-title="⭐ MIS CANALES",039 NATGEO SD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxaHlqTGlBU29COXJlV01hSEo4QmMwaz0
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.imgur.com/6kVMdtI.png" group-title="⭐ MIS CANALES",040 NATGEO WILD FHD
-http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxcnh2R2hHbTF3RkxMQ1hESVJLMm93RT0
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.imgur.com/6kVMdtI.png" group-title="⭐ MIS CANALES",040 LOVE  NATURALEZA
+https://velive.lat:443/Luis918/Final230726/269979
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/Tfw7oaU.png" group-title="⭐ MIS CANALES",041 HISTORY HD
 http://zonacero.lat:8080/Rm5FUkRiU1l2b21CVGlmLy9jUWoxc3JiWHE4anJMbGh0U0N0cUpSMjBXZz0
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/Tfw7oaU.png" group-title="⭐ MIS CANALES",042 HISTORY SD
